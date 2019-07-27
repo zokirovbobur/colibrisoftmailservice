@@ -49,7 +49,6 @@
             <artifactId>spring-web</artifactId>
             <version>5.1.8.RELEASE</version>
         </dependency>
-
     </dependencies>
 
     <build>
